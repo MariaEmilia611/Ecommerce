@@ -8,7 +8,7 @@
   </head>
 
   <body>
-    <div class="navbar">
+    <div class="navbar show-menu">
       <div class="header-inner-content">
         <h1 class="logo">BLUE<span>STORE</span></h1>
         <nav>
@@ -44,5 +44,13 @@
         </div>
       </div>
     </header>
+    <script>
+      const navbar = document.querySelector(".navbar");
+      const menuButton = document.querySelector(".menu-button");
+
+      menuButton.addEventListener("click", () => {
+        navbar.classList.toggle("show-menu"); // Se o navbar tiver a classe show-menu, remova-a. Se não tiver, adicione-a.
+      });
+    </script>
   </body>
 </html>
