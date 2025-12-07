@@ -195,15 +195,15 @@ header {
 
 .cols-3 {
     grid-template-columns: repeat(3, 1fr); /* 3 colunas de largura igual */
-    gap: 20rem; /* Espaçamento entre as colunas */
+    gap: 3rem; /* Espaçamento entre as colunas */
 }
 
 .cols-3 img {
-    min-width: 100%;
+    max-width: 100%;
 }
 
 .cols-4 img {
-    min-width: 100%;
+    max-width: 100%;
 }
 
 .cols-4 {
