@@ -1,4 +1,4 @@
-# 🛒 [Nome do Seu Projeto Ecommerce]
+# 🛒 [Ecommerce]
 
 ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 
@@ -11,7 +11,7 @@
 Este projeto consiste em uma interface de **Ecommerce** desenvolvida para apresentar produtos de forma clara e acessível. O foco principal foi criar um layout **responsivo** e **moderno**, garantindo que a navegação seja intuitiva tanto em desktops quanto em dispositivos móveis.
 
 O objetivo foi explorar conceitos fundamentais de desenvolvimento web, manipulação de DOM e estilização avançada sem o uso de frameworks pesados, focando na performance e na estrutura semântica.
-Acesse ele completo por aqui: [Site](https://lambent-smakager-ca54b9.netlify.app)
+Acesse ele completo por aqui:[Ecommerce](https://lambent-smakager-ca54b9.netlify.app)
 
 ---
 
