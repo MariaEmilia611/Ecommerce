@@ -11,6 +11,7 @@
 Este projeto consiste em uma interface de **Ecommerce** desenvolvida para apresentar produtos de forma clara e acessível. O foco principal foi criar um layout **responsivo** e **moderno**, garantindo que a navegação seja intuitiva tanto em desktops quanto em dispositivos móveis.
 
 O objetivo foi explorar conceitos fundamentais de desenvolvimento web, manipulação de DOM e estilização avançada sem o uso de frameworks pesados, focando na performance e na estrutura semântica.
+Acesse ele completo por aqui: [Site](https://lambent-smakager-ca54b9.netlify.app)
 
 ---
 
@@ -25,7 +26,7 @@ O objetivo foi explorar conceitos fundamentais de desenvolvimento web, manipula�
 
 ## 🎨 Layout / Demonstração
 
-<img width="1861" height="1046" alt="Demo" src="https://github.com/user-attachments/assets/c62f6d47-da8c-4b75-8e03-fef80d85bcc9" />
+<img width="1861" height="1046" alt="Ecommerce" src="https://github.com/user-attachments/assets/c62f6d47-da8c-4b75-8e03-fef80d85bcc9" />
 
 
 ---
